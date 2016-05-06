@@ -3,7 +3,7 @@
 #### 1. 为什么有这个项目
 这是个推的官方代码，[传送门](http://docs.getui.com/server/python/start/#python-sdk)
 
-堂堂一个官方文档，没有提供pip install也就算了，也没有提供python setup.py install。难道非要让我们把源代码拷贝进去？？太low了。因此临时看了下官方文档自己写了个setup.py将就这用
+堂堂一个官方文档，没有提供pip install也就算了，也没有提供python setup.py install。难道非要让我们把源代码拷贝进去？？太low了。因此临时看了下官方文档自己写了个setup.py将就用下下^_^.
 
 
 #### 2. 版本号
